@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <br><br><br><br>
+<h2>Status</p></h2><br>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTANGGIN&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
