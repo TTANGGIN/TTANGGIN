@@ -19,4 +19,8 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<br><br><br><br>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTANGGIN&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTANGGIN&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
