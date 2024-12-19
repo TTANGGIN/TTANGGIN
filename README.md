@@ -6,14 +6,7 @@
 ![Velog](https://img.shields.io/badge/-Blog-%230db7ed?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@ttanggin)
 ![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=notion&logoColor=white&link=https://ttanggin.notion.site/58990a6a71dc47b0a958cc4ff4b561d4?pvs=4)
 
-👋 Hello there! I appreciate your interest in my journey.
-
-🌱 Once aspiring to be a game client programmer, I navigated through the realms of coding with zeal. Life, unpredictable as it is, led me down a different path, and I embraced the change with an open heart.
-
-🚀 Now, I've redirected my passion towards becoming a distinguished web backend programmer.
-
-💪 Transitioning fields hasn't dampened my spirit; rather, it has fueled my determination to excel in my new domain. Every day, I'm committed to mastering the intricacies of backend development, aiming to contribute meaningful innovations in the tech world.
-
+👋 Hello there!
 
 ## 🚀 Career
 - 🎓 Bachelor's degree in Computer Software Engineering from Dong-eui University
