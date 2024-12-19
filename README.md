@@ -13,7 +13,8 @@
 - 📜 Holder of ISTQB CTFL
 - 🥉 Awarded at the 4th Crowd Testing Contest [🔗](https://www.etnews.com/20211121000007)
 - 🥉 Awarded at the 2023 Southeastern Region SW Quality Camp [🔗](https://m.cnbnews.com/m/m_article.html?no=612629)
-- 🎗️ Representative participant in the 2023 SW Test Contest, Southeastern Region [🔗](https://www.busaneconomy.com/news/articleView.html?idxno=304611)
+- 🥉 Awarded at the 2024 Southeastern Region SW Quality Camp [🔗](http://campusn.co.kr/news/article.html?no=21776)
+- 🥉 Awarded at the 2024 SW Test Contest, Southeastern Region [🔗](http://www.technopark.kr/newsnissue/202341)
 
 ## 💻 Languages & Stack
 ![JAVA](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -34,8 +35,6 @@
 ![INTELLIJ](https://img.shields.io/badge/INTELLIJ-%23000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## 🚦 Status
-![LEARNING](https://img.shields.io/badge/LEARNING-%2329BEFF.svg?&style=for-the-badge&logo=leanpub&logoColor=white)
-![HIRING](https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-%2371AE17.svg?&style=for-the-badge&logo=hireahelper&logoColor=white)
 <!--
 ![BUILDING](https://img.shields.io/badge/BUILDING-%23FF7A29.svg?&style=for-the-badge&logo=construct-3&logoColor=white)
 ![CODING](https://img.shields.io/badge/CODING-%2395DD28.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
